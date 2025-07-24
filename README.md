@@ -1,6 +1,8 @@
 # 🚀 Getting Started with Docker: Hands-On Challenges for Beginners
 
-![Docker Logo](https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png)
+<p align="center">
+  <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker Logo" width="200"/>
+</p>
 
 This repository contains **10 practical Docker challenges** for beginners to learn Docker step-by-step.  
 
